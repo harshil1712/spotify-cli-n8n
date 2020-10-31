@@ -2,7 +2,7 @@
 
 Use this CLI tool to control your Spotify player. Build with [Node.js](https://nodejs.org), [n8n](https://n8n.io), and a lot of music!
 
-## Getting Started
+## Getting Started 🚀
 
 ### Prerequisites
 
@@ -30,10 +30,21 @@ npm install
 ```
 npm link
 ```
-## Features
+## Features ✨
 
 1. ▶️ Play a song in the queue
 2. ⏸ Pause a song
 3. ⏭ Play the next song in the queue
 4. ⏮ Play the previous song in the queue
 5. ℹ️ Get the name of the current song in the queue
+
+## Contribute 🤝
+
+If you would like to contribute to the project please check out the [contributing](./CONTRIBUTING.md) docs.
+
+## To Do 💡
+
+- [ ] Play song from the given song name
+- [ ] Select and play a playlist
+- [ ] Play songs from an album
+- [ ] Use TypeScript
